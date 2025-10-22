@@ -6,7 +6,6 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import { BUS_OPTIONS } from "../data/bus";
 import emailjs from "emailjs-com";
-
 import {
   Shield,
   Wind,
