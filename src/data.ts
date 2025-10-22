@@ -2,6 +2,16 @@ import {
   Bus, Car, Plane, Navigation,
   ShieldCheck, Clock, BadgeCheck, Star
 } from "lucide-react";
+import Bus1 from "./assets/Bus_1.jpg";
+import Bus2 from "./assets/Bus_2.jpg";
+import Bus3 from "./assets/Bus_3.jpg";
+import Bus4 from "./assets/Bus_4.jpg";
+import Bus5 from "./assets/Bus_5.jpg";
+import Bus6 from "./assets/Bus_6.jpg";
+import Bus7 from "./assets/Bus_7.jpg";
+import Bus8 from "./assets/Bus_8.jpg";
+import Bus9 from "./assets/Bus_9.jpg";
+import Bus10 from "./assets/Bus_10.jpg";
 
 export const BRAND = {
   name: "Annapoorneshwari Travels",
@@ -29,13 +39,18 @@ export const WHY_US = [
 ];
 
 export const GALLERY = [
-  "https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0?q=80&w=1600&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1491553895911-0055eca6402d?q=80&w=1600&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1485968579580-b6d095142e6e?q=80&w=1600&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=1600&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?q=80&w=1600&auto=format&fit=crop",
-  "https://images.unsplash.com/photo-1491555103944-7c647fd857e6?q=80&w=1600&auto=format&fit=crop",
+  Bus1,
+  Bus2,
+  Bus3,
+  Bus4,
+  Bus5,
+  Bus6,
+  Bus7,
+  Bus8,
+  Bus9,
+  Bus10,
 ];
+
 
 export const TESTIMONIALS = [
   { name: "Rohit S.", text: "Booked a tempo traveller for Coorg trip. Clean vehicle, polite driver, and punctual service!", role: "",avatar: "", },
